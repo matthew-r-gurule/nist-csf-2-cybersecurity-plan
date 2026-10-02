@@ -67,6 +67,6 @@ This is an academic project based on a fictional company. No real organization's
 ## Author
 
 **Matthew Gurule**
-[LinkedIn](https://www.linkedin.com/in/matthew-r-gurule/?isSelfProfile=true) | [GitHub](https://github.com/matthew-r-gurule)
+[LinkedIn](https://www.linkedin.com/in/matthew-r-gurule) | [GitHub](https://github.com/matthew-r-gurule)
 
 See also: [Pi-hole + Splunk DNS Monitoring](https://github.com/matthew-r-gurule/pihole-splunk-dns-monitoring), a hands-on home lab project.
